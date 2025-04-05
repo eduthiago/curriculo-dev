@@ -11,13 +11,15 @@ function App() {
         margin: "auto",
       }}
     >
-      <h1>Eduardo Thiago</h1>
-      <h2>Desenvolvedor Front-End</h2>
+      <h1>Eduardo Monteiro</h1>
+      <h2>Cientista de Dados</h2>
 
       <p>
-        Sou um desenvolvedor iniciante apaixonado por tecnologia, buscando minha
-        primeira oportunidade na área. Estudando React, JavaScript, e outras
-        ferramentas modernas para desenvolvimento web.
+        Apaixoando por estatística, machine learning e ciência de dados. Sou um
+        cientista de dados em construção com experiência em Python, R, SQL ,
+        Power BI e Tableau. Estou sempre buscando novos desafios e me tornar um
+        profissional melhor. Sou um eterno aprendiz e busco sempre me atualizar
+        com as novas tendências e tecnologias do mercado.
       </p>
 
       <h3>Redes Sociais</h3>
